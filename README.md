@@ -1,6 +1,6 @@
 # Enable Facebook Hidden Reactions
 
-Paste index.js into JS Console (read the it first and make sure you don't xss yourself).
+Paste index.js into JS Console (read it first and make sure you don't xss yourself).
 Note only the last two hidden reactions (fire and airplane) work currently.
 
 <p align="center">
