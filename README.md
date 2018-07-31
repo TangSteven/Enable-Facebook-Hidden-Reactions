@@ -1,6 +1,8 @@
 # Enable Facebook Hidden Reactions
 
-Paste index.js (read it first and make sure you don't xss yourself) into JS Console at document-idle(before any Facebook posts appears).
+Install the userscript using <a href="http://tampermonkey.net/">Tampermonkey</a>.
+
+
 Note only the last two hidden reactions (fire and airplane) work currently.
 
 <p align="center">
