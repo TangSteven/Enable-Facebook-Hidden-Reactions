@@ -3,7 +3,7 @@
 // @namespace    https://github.com/TangSteven/Enable-Facebook-Hidden-Reactions
 // @version      1.0
 // @author       Steven Tang
-// @match        https://www.beta.facebook.com/*
+// @match        *://*.facebook.com/*
 // @run-at document-idle
 // ==/UserScript==
 const HOOK_MODULES = ['UFICentralUpdates'];
