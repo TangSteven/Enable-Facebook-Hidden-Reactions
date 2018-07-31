@@ -1,24 +1,12 @@
-# Forever Thankful on FB
+# Enable Facebook Hidden Reactions
 
-<p align="center">
-<img src="https://cloud.githubusercontent.com/assets/2003684/26189100/af2bf5c2-3b57-11e7-8348-8985009edfa2.png">
-</p>
+Paste index.js into JS Console (read the code first to make sure you don't xss yourself).
 
-<br />
-
-Chrome extension that brings back the Thankful Reaction because every day is a day for thanks. 🌸
-
-Just because Mother's Day is over doesn't mean we can't show our gratitude to others. With this extension installed, the Thankful Reaction will appear at the end of the normal Reactions for you to use on posts and comments.
-
-<br />
-
-<p align="center">
-<img width="519" src="https://cloud.githubusercontent.com/assets/2003684/26189097/ac4bc184-3b57-11e7-9f34-721bae361c71.png">
-</p>
+Forked from CaliAlec/Forever-Thankful-On-FB
 
 # License
 
-MIT
+MIT 
 
 ## Legal
 
