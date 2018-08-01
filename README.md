@@ -2,8 +2,7 @@
 
 Install the userscript using <a href="http://tampermonkey.net/">Tampermonkey</a>.
 
-
-Note only the last two hidden reactions (fire and airplane) work currently.
+UPDATE: Patched by Facebook on the server side, still shows hidden reactions, except they are disfunctional.
 
 <p align="center">
 <img width="512" src="https://raw.githubusercontent.com/TangSteven/Enable-Facebook-Hidden-Reactions/master/Screenshot.png">
